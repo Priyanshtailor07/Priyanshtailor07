@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Currently Learning
-- Data Structures & Algorithms (via LeetCode, Codeforces, and A2Z DSA Sheet)
+- Data Structures & Algorithms 
 - Frontend Web Development (HTML, CSS, JavaScript, React.js)
 - Backend Basics (Node.js, Express.js, MongoDB)
 - Open Source Contribution
@@ -24,10 +24,9 @@
 
 ### 🚀 Competitive Programming
 - 🌟 Solving problems on:
-  - [Codeforces](https://codeforces.com/profile/yourusername)
-  - [LeetCode](https://leetcode.com/yourusername)
-  - [CodeChef](https://www.codechef.com/users/yourusername)
-- ✅ Completed A2Z DSA Sheet till Binary Search
+  - [Codeforces](https://codeforces.com/profile/Priyansh07)
+  - [LeetCode](https://leetcode.com/PriyanshuLuharia/)
+  - [CodeChef](https://www.codechef.com/users/priyanshti113)
 - 💪 Always pushing myself to learn and compete!
 
 ---
@@ -43,7 +42,7 @@
 ### 🔗 Connect With Me
 - 📬 Gmail: priyanshtailorwork@gmail.com
 - 🌐 Portfolio: *Coming Soon*
-- 💼 LinkedIn: [Priyanshu Luharia](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Priyanshu Luharia](https://www.linkedin.com/in/priyanshu-luharia-106438283/)
 
 ---
 
