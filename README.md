@@ -8,10 +8,10 @@
 ---
 
 ### 🧠 Currently Learning
-- Data Structures & Algorithms (via LeetCode, Codeforces, and A2Z DSA Sheet)
+- Data Structures & Algorithms 
 - Frontend Web Development (HTML, CSS, JavaScript, React.js)
 - Backend Basics (Node.js, Express.js, MongoDB)
-- Open Source Contribution
+- Open Source Contributor
 
 ---
 
