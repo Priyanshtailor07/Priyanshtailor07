@@ -1,21 +1,55 @@
-# 💫 About Me:
-👋 Hi, I'm Priyanshu Luharia.<br>🌐 Currently learning Web Development – working with HTML, CSS, JavaScript, and exploring React and Node.js.<br>💻 I’m also passionate about Competitive Programming, solving problems on LeetCode, Codeforces, and CodeChef.<br>🚀 I love building real-world projects and contributing to open source.<br>📚 Always eager to learn new technologies and improve my skills every day.<br>🎯 Goal-oriented, consistent, and driven by curiosity!<br>Always ready to challenge myself
+<h1 align="center">Hi 👋, I'm Priyansh Tailor</h1>
+<h3 align="center">A passionate Web Developer & Competitive Programmer from India</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyanshu-luharia-106438283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshtailor113@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanshtailor07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshtailor07&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshtailor07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learning+Web+Development;Competitive+Programming+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Priyanshtailor07&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 Currently Learning
+- Frontend Web Development (HTML, CSS, JavaScript, React.js)
+- Backend Basics (Node.js, Express.js, MongoDB)
+- Data Structures & Algorithms (via Leetcode, Codeforces, and A2Z DSA Sheet)
+- Open Source Contribution
+
+---
+
+### 💻 Tech Stack
+- **Languages**: C++, JavaScript, Python
+- **Web**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
+- **Tools**: Git, GitHub, VS Code, Figma
+- **CP Platforms**: Codeforces, LeetCode, CodeChef
+
+---
+
+### 🚀 Competitive Programming
+- 🌟 Solving problems on:
+  - [Codeforces](https://codeforces.com/profile/yourusername)
+  - [LeetCode](https://leetcode.com/yourusername)
+  - [CodeChef](https://www.codechef.com/users/yourusername)
+- ✅ Completed A2Z DSA Sheet till Binary Search
+- 💪 Always pushing myself to learn and compete!
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshtailor07&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshtailor07&theme=radical" width="47%" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+- 📬 Gmail: priyanshtailorwork@gmail.com
+- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: [Priyansh Tailor](https://linkedin.com/in/yourusername)
+
+---
+
+### ☀️ Motto
+> **"Consistency beats talent when talent doesn’t work consistently."**
+
+---
+
