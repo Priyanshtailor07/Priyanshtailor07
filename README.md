@@ -42,7 +42,7 @@
 ### 🔗 Connect With Me
 - 📬 Gmail: [Priyanshu Luharia]
 - 🌐 Portfolio: *Coming Soon*
-- 💼 LinkedIn: [Priyanshu Luharia](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Priyanshu Luharia](https://www.linkedin.com/in/priyanshu-luharia-106438283)
 
 ---
 
