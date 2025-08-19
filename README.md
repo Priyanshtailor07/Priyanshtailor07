@@ -40,7 +40,7 @@
 ---
 
 ### 🔗 Connect With Me
-- 📬 Gmail: [Priyanshu Luharia]
+- 📬 Gmail: priyanshtailor113@gmail.com
 - 🌐 Portfolio: *Coming Soon*
 - 💼 LinkedIn: [Priyanshu Luharia](https://www.linkedin.com/in/priyanshu-luharia-106438283)
 
